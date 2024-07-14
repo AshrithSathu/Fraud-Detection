@@ -62,7 +62,3 @@ This project is a web application designed to detect fraudulent transactions usi
 - Navigate to the `client` directory.
 - Install dependencies: `npm install`
 - Start the frontend: `npm start`
-
-```
-
-```
